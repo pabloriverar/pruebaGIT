@@ -1,3 +1,1 @@
-Editando el archivo de prueba por segunda ocasion
-
-Edicion local de archivo tercera prueba
+Edicion final de edicion prueba local despues de pull 
