@@ -1,1 +1,3 @@
 Editando el archivo de prueba por segunda ocasion
+
+Edicion mediantia GIT HUB por la interfaz web
